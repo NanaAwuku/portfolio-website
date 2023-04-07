@@ -129,7 +129,7 @@ const Services = () => {
                         </h3>
 
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7 ">
-                        Develope high-quality mobile applications using flutter. Passionate about creating user-friendly interfaces and staying up-to-date with the latest mobile development trends.
+                        Develop high-quality mobile applications using flutter. Passionate about creating user-friendly interfaces and staying up-to-date with the latest mobile development trends.
                         </p>
                       </div>
                     </div>
